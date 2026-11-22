@@ -1,0 +1,2 @@
+dataset,n,area_mean,area_median,area_sd,dil_area_mean,rect_frac,fill_mean,centroid_y,centroid_y_sd,centroid_x,centroid_x_sd,dist_centre_median
+deepfakes,500,0.2938850402832031,0.29039764404296875,0.06271215668516301,0.3023133,1.0,1.0,145.968,12.031582439562968,128.426,8.339156072409246,19.24172349154923
